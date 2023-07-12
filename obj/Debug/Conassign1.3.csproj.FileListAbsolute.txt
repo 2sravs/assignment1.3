@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-3\Conassign1.3\Conassign1.3\bin\Debug\Conassign1.3.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-3\Conassign1.3\Conassign1.3\bin\Debug\Conassign1.3.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-3\Conassign1.3\Conassign1.3\bin\Debug\Conassign1.3.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-3\Conassign1.3\Conassign1.3\obj\Debug\Conassign1.3.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-3\Conassign1.3\Conassign1.3\obj\Debug\Conassign1.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-3\Conassign1.3\Conassign1.3\obj\Debug\Conassign1.3.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-3\Conassign1.3\Conassign1.3\obj\Debug\Conassign1.3.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-3\Conassign1.3\Conassign1.3\obj\Debug\Conassign1.3.pdb
